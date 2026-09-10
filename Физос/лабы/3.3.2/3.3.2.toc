@@ -1,0 +1,13 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{1}{}%
+\contentsline {section}{\numberline {2}Описание работы}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Теоретические сведения}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Схема эксперимента}{1}{}%
+\contentsline {section}{\numberline {3}Методика измерений}{2}{}%
+\contentsline {section}{\numberline {4}Результаты измерений}{2}{}%
+\contentsline {section}{\numberline {5}Обработка результатов}{3}{}%
+\contentsline {subsection}{\numberline {5.1}Сырые вольт-амперные характеристики}{3}{}%
+\contentsline {subsection}{\numberline {5.2}Проверка закона «трёх вторых»}{3}{}%
+\contentsline {subsection}{\numberline {5.3}Определение коэффициента наклона}{3}{}%
+\contentsline {subsection}{\numberline {5.4}Расчёт удельного заряда электрона}{4}{}%
+\contentsline {section}{\numberline {6}Выводы}{4}{}%
