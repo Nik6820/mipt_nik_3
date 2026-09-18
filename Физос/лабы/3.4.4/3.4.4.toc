@@ -1,0 +1,30 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{1}{}%
+\contentsline {section}{\numberline {2}Описание работы}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Теоретические сведения}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Ферромагнетизм и доменная структура}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Кривая намагничивания и гистерезис}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Дифференциальная магнитная проницаемость}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Метод измерения}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Схема измерений}{2}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Калибровка гальванометра}{2}{}%
+\contentsline {section}{\numberline {3}Методика измерений}{3}{}%
+\contentsline {subsection}{\numberline {3.1}О порядке переключения $\Pi _1$ и $\Pi _2$}{3}{}%
+\contentsline {section}{\numberline {4}Результаты измерений}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Токи на ступенях ГТН}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Первый проход (правильный, $R_M = 50$ Ом)}{3}{}%
+\contentsline {subsection}{\numberline {4.3}Второй проход (ошибочный, $R_M = 60$ Ом)}{4}{}%
+\contentsline {subsection}{\numberline {4.4}Калибровка гальванометра}{5}{}%
+\contentsline {subsection}{\numberline {4.5}Начальная кривая намагничивания}{5}{}%
+\contentsline {section}{\numberline {5}Обработка результатов}{5}{}%
+\contentsline {subsection}{\numberline {5.1}Параметры установки}{5}{}%
+\contentsline {subsection}{\numberline {5.2}Численные параметры расчёта}{5}{}%
+\contentsline {subsection}{\numberline {5.3}Проверка правильности обхода по суммам $\Delta x$}{5}{}%
+\contentsline {subsection}{\numberline {5.4}Итоговые характеристики материала}{6}{}%
+\contentsline {subsection}{\numberline {5.5}Как считались погрешности}{6}{}%
+\contentsline {subsection}{\numberline {5.6}Сводная таблица погрешностей}{7}{}%
+\contentsline {section}{\numberline {6}Обсуждение результатов}{7}{}%
+\contentsline {subsection}{\numberline {6.1}О правильности обхода петли}{7}{}%
+\contentsline {subsection}{\numberline {6.2}Влияние тепловых эффектов}{7}{}%
+\contentsline {section}{\numberline {7}Выводы}{8}{}%
+\contentsline {section}{\numberline {8}Приложения}{9}{}%
