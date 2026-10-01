@@ -1,0 +1,27 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{1}{}%
+\contentsline {section}{\numberline {2}Теоретические сведения}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Основные параметры плазмы}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Плазменная (ленгмюровская) частота}{1}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Дебаевские длины}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Число частиц в дебаевской сфере}{2}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Степень ионизации}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Метод двойного зонда}{2}{}%
+\contentsline {section}{\numberline {3}Экспериментальная установка}{2}{}%
+\contentsline {section}{\numberline {4}Методика измерений}{2}{}%
+\contentsline {subsection}{\numberline {4.1}ВАХ разряда}{2}{}%
+\contentsline {subsection}{\numberline {4.2}Зондовые характеристики}{2}{}%
+\contentsline {section}{\numberline {5}Результаты измерений}{3}{}%
+\contentsline {subsection}{\numberline {5.1}Параметры}{3}{}%
+\contentsline {subsection}{\numberline {5.2}ВАХ разряда}{3}{}%
+\contentsline {subsection}{\numberline {5.3}Зондовые характеристики}{3}{}%
+\contentsline {section}{\numberline {6}Обработка результатов}{4}{}%
+\contentsline {subsection}{\numberline {6.1}ВАХ разряда}{4}{}%
+\contentsline {subsection}{\numberline {6.2}Метод обработки зондовых характеристик}{4}{}%
+\contentsline {subsection}{\numberline {6.3}Параметры зондовых характеристик}{4}{}%
+\contentsline {subsection}{\numberline {6.4}Параметры плазмы}{4}{}%
+\contentsline {subsection}{\numberline {6.5}Степень ионизации}{5}{}%
+\contentsline {subsection}{\numberline {6.6}Зависимости $T_e(I_p)$ и $n_e(I_p)$}{5}{}%
+\contentsline {section}{\numberline {7}Оценка погрешностей}{5}{}%
+\contentsline {section}{\numberline {8}Выводы}{6}{}%
+\contentsline {section}{\numberline {9}Приложения}{7}{}%
