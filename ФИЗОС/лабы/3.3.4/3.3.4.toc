@@ -1,0 +1,15 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{2}{section.1}%
+\contentsline {section}{\numberline {2}Теоретические сведения}{2}{section.2}%
+\contentsline {section}{\numberline {3}Экспериментальная установка и методика}{2}{section.3}%
+\contentsline {paragraph}{Датчик Холла ATE-8702.}{2}{section*.2}%
+\contentsline {paragraph}{Милливеберметр (баллистический гальванометр).}{2}{section*.3}%
+\contentsline {section}{\numberline {4}Результаты измерений и обработка}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Калибровка электромагнита: сравнение двух методов}{3}{subsection.4.1}%
+\contentsline {paragraph}{Интерпретация.}{3}{section*.4}%
+\contentsline {subsection}{\numberline {4.2}ЭДС Холла}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Концентрация и подвижность}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Сводная таблица результатов}{7}{section.5}%
+\contentsline {section}{\numberline {6}Оценка погрешностей}{7}{section.6}%
+\contentsline {section}{\numberline {7}Выводы}{7}{section.7}%
+\contentsline {section}{\numberline {A}Графики}{8}{appendix.A}%

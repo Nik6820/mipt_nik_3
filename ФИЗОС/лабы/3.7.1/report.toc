@@ -1,0 +1,13 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Аннотация}{2}{section.1}%
+\contentsline {section}{\numberline {2}Теоретические сведения}{2}{section.2}%
+\contentsline {section}{\numberline {3}Экспериментальная установка и методика}{2}{section.3}%
+\contentsline {section}{\numberline {4}Результаты измерений и обработка}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Низкочастотная зависимость $\xi (\nu )$}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Сдвиг фаз на низких и средних частотах}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Высокие частоты}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Индуктивность катушки}{6}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Сводная таблица результатов}{8}{section.5}%
+\contentsline {section}{\numberline {6}Оценка погрешностей}{8}{section.6}%
+\contentsline {section}{\numberline {7}Выводы}{8}{section.7}%
+\contentsline {section}{\numberline {A}Графики}{9}{appendix.A}%

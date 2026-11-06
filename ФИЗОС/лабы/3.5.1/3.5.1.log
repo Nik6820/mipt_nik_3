@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.7)  2 OCT 2026 01:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.2.7)  23 OCT 2026 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -628,16 +628,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-Package mathtext Warning: letter `cyrb' used in math mode on input line 47.
+Package mathtext Warning: letter `cyrb' used in math mode on input line 48.
 
 [1]
 
-Package mathtext Warning: letter `cyrb' used in math mode on input line 107.
+Package mathtext Warning: letter `cyrb' used in math mode on input line 108.
 
 <setup.png, id=24, 691.58376pt x 403.5075pt>
 File: setup.png Graphic file (type png)
 <use setup.png>
-Package pdftex.def Info: setup.png  used on input line 113.
+Package pdftex.def Info: setup.png  used on input line 114.
 (pdftex.def)             Requested size: 459.51054pt x 268.10747pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -648,12 +648,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <./setup.png>]
 
-Package mathtext Warning: letter `cyrb' used in math mode on input line 262.
+Package mathtext Warning: letter `cyrb' used in math mode on input line 263.
 
 <vac.png, id=34, 578.16pt x 433.62pt>
 File: vac.png Graphic file (type png)
 <use vac.png>
-Package pdftex.def Info: vac.png  used on input line 266.
+Package pdftex.def Info: vac.png  used on input line 267.
 (pdftex.def)             Requested size: 411.14528pt x 308.35536pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -661,7 +661,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <probe_analysis.png, id=35, 650.43pt x 433.62pt>
 File: probe_analysis.png Graphic file (type png)
 <use probe_analysis.png>
-Package pdftex.def Info: probe_analysis.png  used on input line 287.
+Package pdftex.def Info: probe_analysis.png  used on input line 288.
 (pdftex.def)             Requested size: 435.32422pt x 290.21953pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -672,7 +672,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <probes.png, id=36, 650.43pt x 433.62pt>
 File: probes.png Graphic file (type png)
 <use probes.png>
-Package pdftex.def Info: probes.png  used on input line 313.
+Package pdftex.def Info: probes.png  used on input line 314.
 (pdftex.def)             Requested size: 411.14528pt x 274.10173pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -682,26 +682,26 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4]
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 352.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 353.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 352.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 353.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 352.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 353.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 352.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 353.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 352.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 353.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 352.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 353.
 <plasma_params.png, id=40, 650.43pt x 433.62pt>
 File: plasma_params.png Graphic file (type png)
 <use plasma_params.png>
-Package pdftex.def Info: plasma_params.png  used on input line 356.
+Package pdftex.def Info: plasma_params.png  used on input line 357.
 (pdftex.def)             Requested size: 411.14528pt x 274.10173pt.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 357.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 358.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 357.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 358.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -709,7 +709,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [5] [6 <./vac.png>]
 File: setup.png Graphic file (type png)
 <use setup.png>
-Package pdftex.def Info: setup.png  used on input line 409.
+Package pdftex.def Info: setup.png  used on input line 410.
 (pdftex.def)             Requested size: 435.32422pt x 253.99557pt.
 
 
@@ -717,28 +717,28 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: vac.png Graphic file (type png)
 <use vac.png>
-Package pdftex.def Info: vac.png  used on input line 415.
+Package pdftex.def Info: vac.png  used on input line 416.
 (pdftex.def)             Requested size: 411.14528pt x 308.35536pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: probes.png Graphic file (type png)
 <use probes.png>
-Package pdftex.def Info: probes.png  used on input line 421.
+Package pdftex.def Info: probes.png  used on input line 422.
 (pdftex.def)             Requested size: 411.14528pt x 274.10173pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: probe_analysis.png Graphic file (type png)
 <use probe_analysis.png>
-Package pdftex.def Info: probe_analysis.png  used on input line 427.
+Package pdftex.def Info: probe_analysis.png  used on input line 428.
 (pdftex.def)             Requested size: 435.32422pt x 290.21953pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: plasma_params.png Graphic file (type png)
 <use plasma_params.png>
-Package pdftex.def Info: plasma_params.png  used on input line 433.
+Package pdftex.def Info: plasma_params.png  used on input line 434.
 (pdftex.def)             Requested size: 411.14528pt x 274.10173pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -778,7 +778,7 @@ sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 frm1728.pfb>
-Output written on 3.5.1.pdf (12 pages, 868279 bytes).
+Output written on 3.5.1.pdf (12 pages, 869193 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream
